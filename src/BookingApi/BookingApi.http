@@ -1,0 +1,6 @@
+@BookingApi_HostAddress = https://localhost:7001
+
+GET {{BookingApi_HostAddress}}/api/AvailableHomes?startDate=2025-07-15&endDate=2025-07-17
+Accept: application/json
+
+###
